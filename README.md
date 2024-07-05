@@ -1,1 +1,1 @@
-i[](Images\trajectory_NAS.png)
+![](Images\trajectory_NAS.png)
